@@ -150,7 +150,7 @@ const CUSTOMER_SITES = {
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
-    },
+    }
 };
 
 // 调用全局方法合并
